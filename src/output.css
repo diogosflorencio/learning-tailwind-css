@@ -544,25 +544,13 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.w-10 {
-  width: 2.5rem;
-}
-
 .bg-blue-300 {
   --tw-bg-opacity: 1;
   background-color: rgb(147 197 253 / var(--tw-bg-opacity));
 }
 
-.to-100\% {
-  --tw-gradient-to-position: 100%;
-}
-
 .font-sans {
   font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-}
-
-.underline {
-  text-decoration-line: underline;
 }
 
 .hover\:font-serif:hover {
